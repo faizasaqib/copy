@@ -1,0 +1,33 @@
+*{
+	padding:0;
+	margin:0;
+}
+body{
+	font-style: 25px;
+}
+.wrapper{
+	width: 600px;
+	margin: 50px auto;
+
+}
+.box{
+	width: 800px;
+	float: left;
+	border: 2px solid grey;
+}
+.box img{
+	width: 350px;
+	margin:25px 0px 0px 25px;
+	float: left;
+	padding-bottom: 15px;
+}
+.box h1{
+	text-align:center;
+	margin-top:25px;
+}
+article{
+	font-style:25px;
+	float:left;
+	width:375px;
+	margin:25px;
+}
